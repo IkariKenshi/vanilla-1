@@ -1,0 +1,50 @@
+[
+    {
+        "precio": 500,
+        "id": 1,
+        "titulo": "Cafe",
+        "imageUrl": "https://picsum.photos/id/0/600"
+    },
+    {
+        "precio": 600,
+        "id": 2,
+        "titulo": "Coca",
+        "imageUrl": "https://picsum.photos/id/10/600"
+    },
+    {
+        "precio": 200,
+        "id": 3,
+        "titulo": "Fresca",
+        "imageUrl": "https://picsum.photos/id/30/600"
+    },
+    {
+        "precio": 550,
+        "id": 4,
+        "titulo": "Pepsi",
+        "imageUrl": "https://picsum.photos/id/40/600"
+    },
+    {
+        "precio": 100,
+        "id": 5,
+        "titulo": "Doritos",
+        "imageUrl": "https://picsum.photos/id/50/600"
+    },
+    {
+        "precio": 50,
+        "id": 6,
+        "titulo": "Una grafica",
+        "imageUrl": "https://picsum.photos/id/60/600"
+    },
+    {
+        "precio": 40,
+        "id": 7,
+        "titulo": "Manzana",
+        "imageUrl": "https://picsum.photos/id/70/600"
+    },
+    {
+        "precio": 30,
+        "id": 8,
+        "titulo": "Una goma claro que si",
+        "imageUrl": "https://picsum.photos/id/80/600"
+    }
+]
